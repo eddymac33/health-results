@@ -1,0 +1,18 @@
+{
+  "name": "Health Test",
+  "short_name": "Health Test",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff3e00",
+  "orientation": "portrait-primary",
+  "description": "Health Test",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "related_applications": []
+}
